@@ -1,7 +1,7 @@
 # Informacion
-- Nombre:
-- No. Control
-- Grupo:
+- Nombre: Jairo Gutierrez ROdriguez
+- No. Control: 1224100510
+- Grupo: GTI174
 
 ## Especificaciones del proyecto
 | Nombre del proyecto | Framework | Version |
@@ -25,3 +25,6 @@ Para que la aplicacion funcione se necesitan las siguientes variables:
 <img src=""
      width="100%"
      align="center">
+
+## Descripción general
+El objetivo del proyecto es comprender GIT
