@@ -22,7 +22,7 @@ Para que la aplicacion funcione se necesitan las siguientes variables:
 # Participaciones
 - [Jairo Gutierrez](https://https://github.com/Jairo-GR14)
 
-<img src=""
+<img src="https://img.championat.com/c/900x900/news/big/o/h/bloger-hasbik-ufc-280_16659981331645926159.jpg"
      width="100%"
      alt="Hasbulla">
 
